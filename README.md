@@ -1,7 +1,7 @@
-CAP-COOP Website
+Casino Analytics Professional Cooperative Website
 =====================
 
-This is the repository for the main [CAP-COOP website](http://cap-coop.org/).
+This is the repository for the main [Casino Analytics Professional Cooperative (CAP-COOP) website](http://casinoanalytics.github.io/).
 
 It is a copy/fork of the [Let's Encrypt website](https://letsencrypt.org/). Thank you to Let's Encrypt for open-sourcing their website code and design and publishing it on GitHub.
 
