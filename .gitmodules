@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:CasinoAnalytics/CasinoAnalytics.github.io.git
-	branch = master
