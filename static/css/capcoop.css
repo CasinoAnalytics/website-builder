@@ -1465,6 +1465,10 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+.icon--atsymbol > svg {
+  width: 12px;
+  height: 12px; }
+
 /**
  * Tachyons-esque stuff
  */
@@ -1592,6 +1596,12 @@ pre {
     font-weight: normal;
     margin-bottom: 0;
     font-size: 20px; }
+  .hero.tall h2.nextmeetup {
+    font-weight: 700;
+    color: #661141;
+    margin-top: 12px; }
+  .hero.tall h2.hideme {
+    display: none; }
   .hero.tall p {
     color: #2C3C69; }
 
@@ -1674,6 +1684,7 @@ pre {
     width: auto; } }
 
 img.clogo {
+  width: 80px;
   padding: 10px; }
 
 .home {

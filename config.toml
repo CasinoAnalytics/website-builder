@@ -11,8 +11,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "sitemap", "robotsTXT"]
 # Note that this currently has no effect in Hugo.
 timezone = "America/Los_Angeles"
 
-
 [params]
+
+# next_meetup_date = "2018-06-11"
+# next_meetup_location = "Switch InNEVation Center"
 
 # Default page top graphic if not set in page front matter. This is an integer representing the base filename.
 # See the JPEG files below /static/images.
@@ -20,12 +22,16 @@ top_graphic = 5
 
 github_username = "casinoanalytics"
 twitter_username = "casinoanalytics"
+email_displayfront = "hello"
+email_displayback = "casinoanalytics.org"
+meetup_url = "meetup.com/Casino-Analytics"
 crowdfunding_url = "https://www.generosity.com/community-fundraising/make-a-more-secure-web-with-let-s-encrypt"
 
 # Date and time formatting, see https://gohugo.io/functions/format/
 time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
 time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
 time_format_default = "Jan 2, 2006"
+time_format_next_meetup = "Monday, Jan 2, 2006"
 
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -47,7 +53,7 @@ description = """
  name = "Meetup"
  weight = 30
  identifier = "meetup"
- url = "https://www.meetup.com/Casino-Analytics/"
+ url = "https://meetup.com/Casino-Analytics/"
 # [[languages.en.menu.main]]
 # name = "About Us"
 # weight = 40

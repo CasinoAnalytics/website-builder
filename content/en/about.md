@@ -2,16 +2,16 @@
 title: About CAP-COOP
 linkTitle: About Us
 slug: about
-top_graphic: 1
+top_graphic: 3
 menu:
   main:
     weight: 100
 
 ---
 
-Casino Analytics Professional Cooperative (CAP-COOP) is an educational and networking community comprised of enthusiastic technology and analytic specialists employed in the casino gaming industry.
+Casino Analytics Professional Cooperative (CAP-COOP) is an educational and networking community comprised of enthusiastic technology and analytic specialists employed in the casino gaming industry. 
 
-Our Meetups provide excellent opportunities to share best practices, meet your peers, learn new tools & technologies, and find excellent job candidates (or hear about new openings).
+Our Meetups provide excellent opportunities to share best practices, meet your peers, learn new tools & technologies, and find excellent job candidates (or hear about new openings). Most casinos have embraced analytics as an essential component of the decision-making process across all departments, so there is more demand than ever for talented individuals. 
 
 The work of analysts and technologists rarely receives much visibility, often because projects are assigned by a specific executive, contain confidential data, and remain internal to the organization. CAP-COOP offers exposure in the form of speaking opportunities, sharing code or algorithms, publishing an article, and networking among industry peers.
 
