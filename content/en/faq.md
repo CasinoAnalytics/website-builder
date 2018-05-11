@@ -60,7 +60,9 @@ Secondly, meeting with one's peers is a long-established way to advance the indu
 * [Destination Services Association](http://dsa-lasvegas.com/)
 -->
 
-## Who designed this web site?
+## Who deserves credit for this web site?
 * The design of this site is copied directly from the [Let's Encrypt](https://letsencrypt.org) site. Please check out their site, they are pioneering widespread security on the web by offering free, easy-to-install SSL certificates for any web site.
 * The [Hugo](https://gohugo.io/) static site generator is used to build pages.
-* Various icons and graphics came from [Iconmonstr](https://iconmonstr.com) and [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) 
+* Many casino logos (on the home page) were created and designed by [Reviews of Vegas Hotels](http://reviewsofvegashotels.com/blog/vegas-hotel-casino-logos)
+* Various miscellaneous icons and graphics came from [Iconmonstr](https://iconmonstr.com) and [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) 
+* Free hosting from [Github](https://github.com/CasinoAnalytics)
