@@ -1,6 +1,6 @@
 ---
 author: Andy Goldberg
-date: 2018-05-14T10:47:00Z
+date: 2018-05-14T10:49:00Z
 excerpt: Python and R for data analysis
 title: Plan for first meetup
 slug: first-meetup
