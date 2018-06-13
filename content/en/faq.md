@@ -30,7 +30,7 @@ Not yet. If you're interested in offsetting some of the costs of running regular
 Again, everyone is welcome. And of course, there's a lot more to the industry than just casinos. Sports betting, online casinos, poker, revenue management, horse racing, as well as vendors, journalists, consultants, investment advisors, social marketers and more. In fact, if you work in one of these areas, having you speak and explain some of the unique challenges you face would make for a great talk at an upcoming Meetup!
 
 ## Can you teach me to count cards?
-Possibly. Practice at home with two decks. Turn the cards over as fast as you can, for every 10-J-Q-K add a +1 to the count in your head, for every 3-4-5-6 subtract -1. Keep practicing until you always end the decks at zero. The [World's Greatest Blackjack Book](https://www.amazon.com/Worlds-Greatest-Blackjack-Book/dp/0385153821) by Lance Humble, is, in fact, a very good book.
+Possibly. Practice at home with two decks. Turn the cards over as fast as you can, for every 10-J-Q-K subtract -1 to the count in your head, for every 3-4-5-6 add +1. Keep practicing until you always end the decks at zero. When you're actually playing blackjack, keep the count in your head, bet the minimum, until the count goes very positive, then increase your bet (triple or more). For more info, The [World's Greatest Blackjack Book](https://www.amazon.com/Worlds-Greatest-Blackjack-Book/dp/0385153821) by Lance Humble, is, in fact, a very good book.
 
 ## Am I sneaking behind my employer's back by getting together with employees at other companies, discussing projects, etc.?
 Absolutely not! First of all, it's pretty simple to strip away any confidential information like customer names and identifiers before discussing any project, or to speak in percentage terms rather than actual numbers, if they are sensitive. In a teaching situation, people tend to be more interested in the process rather than the end result.
@@ -62,6 +62,7 @@ Secondly, meeting with one's peers is a long-established way to advance the indu
 
 ## Who deserves credit for this web site?
 * The design of this site is copied directly from the [Let's Encrypt](https://letsencrypt.org) site. Please check out their site, they are pioneering widespread security on the web by offering free, easy-to-install SSL certificates for any web site.
+* Content was written by Andy Goldberg, lead consultant at [Centerfield Nine](http://cfnine.com)
 * The [Hugo](https://gohugo.io/) static site generator is used to build pages.
 * Many casino logos (on the home page) were created and designed by [Reviews of Vegas Hotels](http://reviewsofvegashotels.com/blog/vegas-hotel-casino-logos)
 * Various miscellaneous icons and graphics came from [Iconmonstr](https://iconmonstr.com) and [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) 
