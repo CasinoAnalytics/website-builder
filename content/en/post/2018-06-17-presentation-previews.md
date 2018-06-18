@@ -1,0 +1,16 @@
+---
+author: Andy Goldberg
+date: 2018-06-17T13:15:00Z
+excerpt: Presentations from June 20, 2018 Meetup
+title: Presentations from June 20, 2018 Meetup
+slug: presentations-20180620
+draft: true
+---
+
+Links to the presentations from the June 20, 2018 Meetup, held at Innevation Center, Powered by Switch.
+
+## [1st presentation](/documents/presentations/revealjs/excel_python_r.html) Python and R for Excel Pros
+
+- [Jupyter notebook replica](/documents/jupyter/8020rule.html) Python code example of 80/20 rule analysis
+
+## [2nd presentation](/documents/presentations/remarkjs/capcoop.html) Why is CAP-COOP needed?

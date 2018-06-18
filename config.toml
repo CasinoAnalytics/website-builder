@@ -13,8 +13,10 @@ timezone = "America/Los_Angeles"
 
 [params]
 
-# next_meetup_date = "2018-06-11"
-# next_meetup_location = "Switch InNEVation Center"
+next_meetup_date = "2018-06-20"
+next_meetup_time = "2018-06-20 18:30:00 -0700"
+next_meetup_location = "Switch InNEVation Center"
+next_meetup_location_map = "https://www.google.com/maps/place/The+Innevation+Center/@36.0665333,-115.2192654,15.75z/data=!4m5!3m4!1s0x0:0x4f1c35e8f68b2e74!8m2!3d36.0666193!4d-115.2136257"
 
 # Default page top graphic if not set in page front matter. This is an integer representing the base filename.
 # See the JPEG files below /static/images.
@@ -31,7 +33,8 @@ crowdfunding_url = "https://www.generosity.com/community-fundraising/make-a-more
 time_format_RFC3339 = "2006-01-02T15:04:05Z07:00"
 time_format_RFC822 = "Mon, 02 Jan 2006 15:04:05 -0700" 
 time_format_default = "Jan 2, 2006"
-time_format_next_meetup = "Monday, Jan 2, 2006"
+time_format_next_meetup = "Mon, Jan 2, 2006"
+time_format_next_meetup_time = "3:04"
 
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -45,6 +48,9 @@ weight = 1
 description = """
   Casino Analytics Professional Cooperative (CAP-COOP) is an educational and networking community comprised of enthusiastic technology and analytic specialists employed in the casino gaming industry.
 """
+
+staticDir = ["static"]
+
 #[[languages.en.menu.main]]
 # name = "Get Help"
 # weight = 20
@@ -108,3 +114,4 @@ baseName = "feed"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
+

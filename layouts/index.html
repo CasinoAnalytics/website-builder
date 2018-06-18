@@ -9,9 +9,9 @@
       <div class="flex1 tal ml1m">
         <a class="dib" href="{{ "donate/" | relLangURL }}">{{ i18n "home_hero_donate" | safeHTML }}</a>
       </div>
-    </div>-->
+    </div> -->
 	<h2>&#9856; Education &#9857; Collaboration &#9858; Advocacy &#9859; Outreach &#9860; Mentoring &#9861;</h2>
-	{{ if and (isset .Site.Params "next_meetup_date") (isset .Site.Params "next_meetup_location") }}<h2 class="nextmeetup" id="nextmeetupinfo">Next Meetup is {{ dateFormat $.Site.Params.time_format_next_meetup .Site.Params.next_meetup_date }} at {{ .Site.Params.next_meetup_location }}</h2>{{ end }}
+	{{ if and (isset .Site.Params "next_meetup_date") (isset .Site.Params "next_meetup_location") }}<h2 class="nextmeetup" id="nextmeetupinfo">Next Meetup is {{ dateFormat $.Site.Params.time_format_next_meetup .Site.Params.next_meetup_date }} at {{ dateFormat $.Site.Params.time_format_next_meetup_time .Site.Params.next_meetup_time }}, at {{ .Site.Params.next_meetup_location }} <a href="{{ .Site.Params.next_meetup_location_map }}" target="_blank">&#128665;</a></h2>{{ end }}
   </div>
 </div>
 <div class="page-content">
