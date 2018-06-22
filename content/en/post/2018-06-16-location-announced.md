@@ -1,9 +1,9 @@
 ---
 author: Andy Goldberg
 date: 2018-06-16T15:46:00Z
-excerpt: Location for first Meetup
+excerpt: Location announced for next Meetup
 title: June 20 Meetup will be at Innevation Center
-slug: first-meetup-location
+slug: meetup-location-20180620
 ---
 
 Previously, we had announced the first Meetup would be on June 20, but weren't sure where. We are happy to say that the [InNEVation Center, Powered by Switch](https://www.innevation.com/) has agreed to host us. The agenda will remain the same: an intro to the group and an introduction to Python and R for data analysis, especially for Excel users.
