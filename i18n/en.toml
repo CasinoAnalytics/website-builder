@@ -1,7 +1,7 @@
 # See https://github.com/nicksnyder/go-i18n for format documentation and some tools.
 
 [home_hero_title]
-other = "Casino Analytics Professional Cooperative<br /><span>CAP-COOP</span>"
+other = "Casino Analytics Professional Cooperative"
 
 [home_hero_getting_started]
 other = "Get Started"
