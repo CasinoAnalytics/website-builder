@@ -1,6 +1,6 @@
 ---
 author: Andy Goldberg
-date: 2018-07-12T21:19:00Z
+date: 2018-07-12T21:19:20Z
 excerpt: The Casino Marketing & Tech Conference is run by Casino Journal magazine, July 17-19
 title: CAP-COOP to attend Casino Mktg & Tech Conf. 
 slug: going-to-cmtc-20180712
